@@ -1,0 +1,15 @@
+# Ignore all .pyc files
+*.pyc
+
+# Ignore the .vscode directory
+.vscode/
+unused/
+venv/
+audio_feature_extraction/
+auto_tagging/data/
+auto_tagging/models/
+auto_tagging/pytorch/runs/
+auto_tagging/pytorch/__pycache__/
+reccomender/data/
+# Ignore the build directory
+build/
